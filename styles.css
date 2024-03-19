@@ -1241,7 +1241,7 @@ justify-content: center;
 /*------------------------RESUME---------------------------------------  */
 
 @media(max-width:1024px){
-    .resume-img{
+    .resume1 img{
         display:none;
     }
     .resume1 .remoe{
