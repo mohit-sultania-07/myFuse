@@ -1295,3 +1295,30 @@ justify-content: center;
 }
 
 
+/* ----------------------HERO---------------------------------- */
+
+@media(max-width:1024px){
+    .hero .hero-mid-div h2 {
+        font-weight: 600;
+        font-size: 23px;
+    }
+    .hero-mid-div p{
+        font-size: 0.75rem;
+    }
+    .hero-mid-div {
+        width: 75%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .hero-button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:3rem;
+    }
+}
+
+
