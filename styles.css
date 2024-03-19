@@ -1237,3 +1237,11 @@ justify-content: center;
         width: 100%;
     }
 }
+
+/* ------------BODY-------------------------------------- */
+
+@media (max-width:650px){
+body{
+    overflow-x: hidden;
+}
+}
