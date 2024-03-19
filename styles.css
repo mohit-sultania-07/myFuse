@@ -1113,6 +1113,9 @@ justify-content: center;
 
 
 @media (max-width:830px) {
+    .header{
+        height:65px;
+    }
 
     .logo h1 {
         color: white;
