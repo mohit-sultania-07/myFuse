@@ -714,10 +714,11 @@ color: rgb(255, 255, 255);
 /* ----------------------------------------------------------------------------------------------------------- */
 
 .resume{
-    background-color: black;
-    margin-bottom: 10rem;
-    margin-top: 10rem;
+    background-color: #F8F9FA;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
 }
+/* change */
 .resume-img{
     background-image: url(images/resume-pic.jpeg);
     background-size: cover;
