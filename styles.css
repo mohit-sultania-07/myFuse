@@ -1343,6 +1343,10 @@ width: 100px;
         justify-content: center;
         gap:2rem;
     }
+    .hero-img {
+    background-size: cover;
+    height: 500px;
+}
 }
 
 
