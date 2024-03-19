@@ -1115,6 +1115,7 @@ justify-content: center;
 @media (max-width:830px) {
     .header{
         height:45px;
+        padding:24px;
     }
 
     .logo h1 {
