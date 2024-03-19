@@ -938,25 +938,29 @@ color: #212529;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top:10rem;
-    margin-bottom: 8rem;
+    padding-top:10rem;
+    padding-bottom: 8rem;
     background-color: #F8F9FA;
+ 
 }
+/* change */
 .news{
     width: 60%;
 }
 .subscribe-div{
-    position: absolute;
-    margin-left: 40.8rem;
+  position: absolute;
+    margin-left: 39%;
+    width: 22%;
 }
 .subscribe{
     border: none;
     background-color: #FD7E14;
     height:3.6rem;
-    width: 10rem;
+    width: 70%;
     border-radius: 2rem;
     font-weight: 500;
     color: #212529;
+  
 }
 
 .email-div ::placeholder {
@@ -971,12 +975,15 @@ color: #212529;
     background-color:#fff;
     margin-bottom: 4.4rem;
     font-weight: 400;
+  
 
 }
 .email-div{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 90%;
+   
     
 }
 .news h1{
