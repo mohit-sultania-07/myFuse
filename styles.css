@@ -1121,7 +1121,7 @@ justify-content: center;
     }
 
     #nav {
-        display: flex;
+        display: none;
         flex-direction: column;
         justify-content: space-between;
         align-items: flex-start;
@@ -1138,6 +1138,7 @@ justify-content: center;
 }
     #nav.activeb {
         right: 0px !important;
+        display:flex;
     }
   
     #nav li {
