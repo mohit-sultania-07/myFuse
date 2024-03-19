@@ -196,10 +196,10 @@ color: rgb(255, 255, 255);
 }
 
 .btn1{
-    
+    width: 12rem;
     background-color: #FD7E14;
-    padding-left: 2.8rem;
-    padding-right: 2.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
     color: white;
@@ -209,7 +209,7 @@ color: rgb(255, 255, 255);
 }
 
 .btn2{
-    
+    width: 12rem;
     padding-left: 2rem;
     padding-right: 2rem;
     padding-top: 0.75rem;
