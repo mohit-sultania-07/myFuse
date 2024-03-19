@@ -1159,6 +1159,7 @@ justify-content: center;
     .stat {
         display: flex;
         align-items: center;
+        justify-content:center;
     }
 
     .stats {
