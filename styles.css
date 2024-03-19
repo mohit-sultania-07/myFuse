@@ -1272,6 +1272,7 @@ justify-content: center;
         color: #fff;
         margin-bottom:2.5rem;
         text-align: center;
+        line-height:2;
     }
     .res-inp p{
         font-weight: 500;
@@ -1279,6 +1280,7 @@ justify-content: center;
         margin-bottom: 3rem;
         font-size: 0.6rem;
         text-align: center;
+        line-height:2;
     }
     .res-inp button{
         font-weight: 600;
