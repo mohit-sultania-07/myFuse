@@ -1242,7 +1242,7 @@ justify-content: center;
 
 @media(max-width:1024px){
     .resume1 img{
-        display:none;
+        display:hidden;
     }
     .resume1 .remoe{
         display: none;
