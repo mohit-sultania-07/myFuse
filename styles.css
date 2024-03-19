@@ -1257,6 +1257,10 @@ justify-content: center;
     }
     .resume-img{
         height:25rem;
+    }
+    .resume{
+        height:25rem;
+    }
     .res-inp{
         width:18rem;
         margin-left:0rem;
