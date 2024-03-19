@@ -678,25 +678,32 @@ color: rgb(255, 255, 255);
     justify-content: space-evenly;
     margin: 10px 0;
 }
+.high .h-d-job .up1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px 0;
+}
 
-.high .h-d-job .up .search{
+
+ .search{
     display: flex;
     align-items: center;
     justify-content:center;
-    width: Hug (187px);
-    height: Hug (64px);
-    padding: 22px 32px 22px 32px;
+    width: 100%;
+    height: 100%;
+    padding: 16px 32px 36px 32px;
     gap: 32px;
     border-radius: 8px ;
     margin: 0 10px; 
     border: 1.5px solid #50617229;
 }
 
-.high .h-d-job .up .search h6{
+ .search h6{
     height: 10px;
     font-size: 15px;    
 } 
-.high .h-d-job .up .search .up-txt{
+ .search .up-txt{
     display: flex;
     align-items:center;
 }
@@ -1350,6 +1357,51 @@ width: 100px;
     .hero-1{
     height:450px;
     }
+}
+
+
+/* ---------HIGH--------------------------------------------------------- */
+
+}
+@media (max-width:910px){
+    
+.high .h-d-job .up{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center;
+    margin: 10px 10px;
+    width: 40%;
+}
+.high .h-d-job .up1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content:center;
+    margin: 10px 10px;
+    width: 40%;
+}
+.high .h-d-job{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.search{
+    height: 100%;
+    width: 100%;
+    padding: 10px 0 10px 0;
+ margin: 10px 0 10px 0;
+}
+.search h6{
+    height: 10px;
+    font-size: 70%;    
+}
+.high .demand h2{
+    font-size: 30px;
+    font-weight: 550;
+    line-height: 38px;
+}
 }
 
 
