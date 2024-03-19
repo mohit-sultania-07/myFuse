@@ -1255,6 +1255,8 @@ justify-content: center;
         align-items: center;
         height:25rem;
     }
+    .resume-img{
+        height:25rem;
     .res-inp{
         width:18rem;
         margin-left:0rem;
