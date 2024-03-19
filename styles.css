@@ -177,6 +177,11 @@ color: rgb(255, 255, 255);
     opacity: 0.3;
 }
 
+.hero-mid-div p{
+    font-size: 1.3rem;
+    color:white;
+}
+
 .hero-1 {
     display: flex;
     justify-content: center;
@@ -1322,7 +1327,7 @@ width: 100px;
         font-size: 23px;
     }
     .hero-mid-div p{
-        font-size: 15rem;
+        font-size: 1rem;
     }
     .hero-mid-div {
         width: 75%;
