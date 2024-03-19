@@ -1238,4 +1238,49 @@ justify-content: center;
     }
 }
 
+/*------------------------RESUME---------------------------------------  */
+
+@media(max-width:1024px){
+    
+    .resume1 .remoe{
+        display: none;
+    }
+    .resume1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .res-inp{
+        width:15rem;
+        margin-left:0rem;
+        margin-top: 0rem;
+        text-align: center;
+    }
+    .res-inp h2{
+        font-weight: 600;
+        font-size:1.25rem;
+        color: #fff;
+        margin-bottom:2.5rem;
+        text-align: center;
+    }
+    .res-inp p{
+        font-weight: 500;
+        color: #fff;
+        margin-bottom: 2.5rem;
+        font-size: 0.6rem;
+        text-align: center;
+    }
+    .res-inp button{
+        font-weight: 600;
+        font-size: 0.6rem;
+        padding:0.8rem 1.25rem 0.8rem 1.25rem;
+        color: #FD7E14;
+        background-color: transparent;
+        border:1px solid  #FD7E14;
+        border-radius: 4px;
+        
+    }
+}
+
 
