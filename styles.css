@@ -1407,6 +1407,9 @@ width: 100px;
     :root{
         --swiper-navigation-size:22px !important;
     }
+    .stat-bg{
+        height:0;
+    }
 }
 
 
