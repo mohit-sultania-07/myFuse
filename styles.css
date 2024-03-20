@@ -732,6 +732,8 @@ color: rgb(255, 255, 255);
     z-index: 1;
     display: flex;
     gap:24rem;
+    margin-bottom:10rem;
+    margin-top:10rem;
 }
 .resume1 img{
     height: 35rem;
