@@ -1404,7 +1404,7 @@ width: 100px;
         display: flex;
         gap:4.5rem;
     }
-    .swiper-navBtn :root{
+    :root{
         --swiper-navigation-size:22px !important;
     }
 }
