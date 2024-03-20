@@ -76,17 +76,17 @@
 
         <div class="stats">
             <div class="student">
-                <h1>2000+</h1>
+                <h1 class="counter">2000+</h1>
                 <h6>Active Students</h6>
             </div>
             <div class="line"></div>
             <div class="student">
-                <h1>3000+</h1>
+                <h1 class="counter">3000+</h1>
                 <h6>Jobs</h6>
             </div>
             <div class="line"></div>
             <div class="student">
-                <h1>5500+</h1>
+                <h1 class="counter">5500+</h1>
                 <h6>Active Applications</h6>
             </div>
         </div>
@@ -1011,7 +1011,15 @@
     <script src="swiper-bundle.min.js"></script>
     <script src="index.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src=
+    <script src="jquery.counterup.min.js"></script>
+    <script>
+        jQuery(document).ready(function($){
+            $('.counter').counterUp({
+    delay: 10,
+    time: 1000
+});
+        });
+    </script>
 </body>
 
 </html>
