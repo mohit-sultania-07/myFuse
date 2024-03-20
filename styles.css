@@ -779,6 +779,7 @@ border-radius: 4px;
     width: 100%;
     background: #F8F9FA;
     padding-top:10rem;
+    overflow-x:hidden;
 
 }
 
