@@ -1450,6 +1450,12 @@ width: 100px;
     .job-s h1 {
     font-size: 20px;
     }
+    .img-abs{
+        margin-left: 1.5rem;
+    }
+    .divresp{
+        padding-top:1rem;
+    }
 }
 
 
