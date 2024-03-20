@@ -1426,6 +1426,12 @@ width: 100px;
     .testimonial .test-txt h1{
         font-size:1.2rem;
     }
+    .container .dipan{
+        padding-bottom:0;
+    }
+    .smjh p{
+        font-size:0.6rem;
+    }
 }
 
 
