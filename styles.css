@@ -1459,6 +1459,9 @@ width: 100px;
     .testimonial .test-txt{
         width:75%;
     }
+    .card{
+        height:444px;
+    }
     
 }
 
