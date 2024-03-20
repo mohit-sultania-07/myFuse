@@ -1461,7 +1461,7 @@ width: 100px;
         width:75%;
     }
     .card{
-        height:444px;
+        height:444px !important;
     }
     
 }
