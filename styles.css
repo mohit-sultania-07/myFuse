@@ -1468,6 +1468,9 @@ width: 100px;
     .chal1-para{
         width:150px !important;
     }
+    .testimonial .comment{
+        overflow:scroll;
+    }
     
 }
 
