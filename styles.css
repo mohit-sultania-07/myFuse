@@ -299,6 +299,7 @@ color: rgb(255, 255, 255);
 
 .job-s{
     padding-top:10rem;
+    padding-bottom:10rem;
 }
 /* ---------------------------------------------------------------------------------------------------------- */
 
@@ -722,8 +723,6 @@ color: rgb(255, 255, 255);
 
 .resume{
     background-color: black;
-    margin-bottom: 10rem;
-    margin-top: 10rem;
    
 }
 /* change */
