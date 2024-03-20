@@ -1385,6 +1385,9 @@ width: 100px;
     .smjh{
     margin-left:0;
 }
+    .container{
+        padding-top:0;
+    }
     .slide-container .card img{
         width: 20rem;
     }
