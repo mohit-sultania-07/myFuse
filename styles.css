@@ -1415,7 +1415,16 @@ width: 100px;
         padding-bottom:0;
     }
     .chal1 h1{
-        font-size:1rem;
+        font-size:1.2rem;
+    }
+    .comp-h{
+        font-size:1.2rem;
+    }
+    .high .demand h2{
+        font-size:1.2rem;
+    }
+    .testimonial .test-txt h1{
+        font-size:1.2rem;
     }
 }
 
