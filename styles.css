@@ -648,6 +648,7 @@ color: rgb(255, 255, 255);
     justify-content: center;
     width: 100%;
     height: 450px;
+    margin-bottom:10rem;
    
     background: #F8F9FA;
 }
@@ -715,8 +716,7 @@ color: rgb(255, 255, 255);
 
 .resume{
     background-color: #000;
-    margin-bottom: 10rem;
-    margin-top: 10rem;
+   
 }
 /* change */
 .resume-img{
@@ -732,8 +732,7 @@ color: rgb(255, 255, 255);
     z-index: 1;
     display: flex;
     gap:24rem;
-    margin-bottom:10rem;
-    margin-top:10rem;
+ 
 }
 .resume1 img{
     height: 35rem;
