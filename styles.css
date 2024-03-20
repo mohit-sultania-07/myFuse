@@ -1410,6 +1410,10 @@ width: 100px;
     .stat-bg{
         height:0;
     }
+    .works .work-box{
+        padding-top:0;
+        padding-bottom:0;
+    }
 }
 
 
