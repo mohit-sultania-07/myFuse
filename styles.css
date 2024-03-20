@@ -1470,6 +1470,8 @@ width: 100px;
     }
     .testimonial .comment{
         overflow:scroll;
+        padding-left:0;
+        padding-right:0;
     }
     
 }
